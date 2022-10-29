@@ -1,0 +1,22 @@
+#num2 {
+    color: darkblue;
+    font-size: 36px;
+    font: DejaVu Sans;
+}
+
+#num4 {
+    font-weight: bold;
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.class1 {
+    background-color: lightcoral;
+    color: black;
+    font: Verdana;
+}
+
+.cooler{
+    font-size: 40px;
+}
